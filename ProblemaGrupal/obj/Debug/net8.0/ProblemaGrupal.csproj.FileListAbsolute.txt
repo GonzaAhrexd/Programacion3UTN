@@ -1,0 +1,14 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\bin\Debug\net8.0\ProblemaGrupal.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\bin\Debug\net8.0\ProblemaGrupal.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\bin\Debug\net8.0\ProblemaGrupal.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\bin\Debug\net8.0\ProblemaGrupal.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\bin\Debug\net8.0\ProblemaGrupal.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\obj\Debug\net8.0\ProblemaGrupal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\obj\Debug\net8.0\ProblemaGrupal.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\obj\Debug\net8.0\ProblemaGrupal.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\obj\Debug\net8.0\ProblemaGrupal.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\obj\Debug\net8.0\ProblemaGrupal.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\obj\Debug\net8.0\refint\ProblemaGrupal.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\obj\Debug\net8.0\ProblemaGrupal.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\obj\Debug\net8.0\ProblemaGrupal.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ProblemaGrupal\obj\Debug\net8.0\ref\ProblemaGrupal.dll
