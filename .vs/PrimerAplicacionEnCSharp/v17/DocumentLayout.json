@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FADC7F91-9D7A-4B93-A4DA-C6FB44DC80A4}|ProblemaGrupal\\ProblemaGrupal.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\primeraplicacionencsharp\\problemagrupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FADC7F91-9D7A-4B93-A4DA-C6FB44DC80A4}|ProblemaGrupal\\ProblemaGrupal.csproj|solutionrelative:problemagrupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3877520C-11F4-40F8-9B3C-73A37CDE83D1}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\primeraplicacionencsharp\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3877520C-11F4-40F8-9B3C-73A37CDE83D1}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C12EA7FC-2E22-4413-8005-DB6B58D0A8FA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\primeraplicacionencsharp\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C12EA7FC-2E22-4413-8005-DB6B58D0A8FA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\PracticaParcial\\PracticaParcial\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticaParcial\\PracticaParcial\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,39 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\ProblemaGrupal\\Program.cs",
-              "RelativeDocumentMoniker": "ProblemaGrupal\\Program.cs",
-              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\ProblemaGrupal\\Program.cs",
-              "RelativeToolTip": "ProblemaGrupal\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\PracticaParcial\\PracticaParcial\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaParcial\\PracticaParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\PracticaParcial\\PracticaParcial\\Program.cs",
+              "RelativeToolTip": "PracticaParcial\\PracticaParcial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T23:36:20.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\ConsoleApp2\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\ConsoleApp2\\Program.cs",
-              "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T22:30:48.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\PrimerAplicacionEnCSharp\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:37:07.719Z",
+              "WhenOpened": "2024-05-12T01:16:36.578Z",
               "EditorCaption": ""
             }
           ]

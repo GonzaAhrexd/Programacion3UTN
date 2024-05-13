@@ -1,0 +1,15 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\bin\Debug\net8.0\LanzamientoDeDados.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\bin\Debug\net8.0\LanzamientoDeDados.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\bin\Debug\net8.0\LanzamientoDeDados.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\bin\Debug\net8.0\LanzamientoDeDados.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\bin\Debug\net8.0\LanzamientoDeDados.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\LanzamientoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\LanzamientoDeDados.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\LanzamientoDeDados.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\LanzamientoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\LanzamientoDeDados.sourcelink.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\LanzamientoDeDados.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\refint\LanzamientoDeDados.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\LanzamientoDeDados.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\LanzamientoDeDados.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\LanzamientoDeDados\obj\Debug\net8.0\ref\LanzamientoDeDados.dll

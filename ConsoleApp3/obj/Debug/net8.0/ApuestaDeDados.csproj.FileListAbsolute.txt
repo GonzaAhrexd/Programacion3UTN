@@ -1,0 +1,15 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\bin\Debug\net8.0\ApuestaDeDados.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\bin\Debug\net8.0\ApuestaDeDados.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\bin\Debug\net8.0\ApuestaDeDados.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\bin\Debug\net8.0\ApuestaDeDados.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\bin\Debug\net8.0\ApuestaDeDados.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\ApuestaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\ApuestaDeDados.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\ApuestaDeDados.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\ApuestaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\ApuestaDeDados.sourcelink.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\ApuestaDeDados.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\refint\ApuestaDeDados.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\ApuestaDeDados.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\ApuestaDeDados.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\ConsoleApp3\obj\Debug\net8.0\ref\ApuestaDeDados.dll
