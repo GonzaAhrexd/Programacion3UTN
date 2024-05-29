@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleApp4",
-    "\\PracticaParcial",
-    "\\PracticaParcial\\PracticaParcial"
+    "\\WinFormsExplicacion",
+    "\\WinFormsExplicacion\\Simon"
   ],
-  "SelectedNode": "\\PracticaParcial\\PracticaParcial\\Program.cs",
+  "SelectedNode": "\\WinFormsExplicacion\\Simon\\Simon.sln",
   "PreviewInSolutionExplorer": false
 }

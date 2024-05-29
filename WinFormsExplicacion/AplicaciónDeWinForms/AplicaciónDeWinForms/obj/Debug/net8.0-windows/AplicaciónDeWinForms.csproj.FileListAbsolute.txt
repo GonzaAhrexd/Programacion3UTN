@@ -1,0 +1,17 @@
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\bin\Debug\net8.0-windows\AplicaciónDeWinForms.exe
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\bin\Debug\net8.0-windows\AplicaciónDeWinForms.deps.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\bin\Debug\net8.0-windows\AplicaciónDeWinForms.runtimeconfig.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\bin\Debug\net8.0-windows\AplicaciónDeWinForms.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\bin\Debug\net8.0-windows\AplicaciónDeWinForms.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.Form1.resources
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.csproj.GenerateResource.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.AssemblyInfoInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.AssemblyInfo.cs
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.sourcelink.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\refint\AplicaciónDeWinForms.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\AplicaciónDeWinForms.genruntimeconfig.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\PrimerAplicacionEnCSharp\WinFormsExplicacion\AplicaciónDeWinForms\AplicaciónDeWinForms\obj\Debug\net8.0-windows\ref\AplicaciónDeWinForms.dll
