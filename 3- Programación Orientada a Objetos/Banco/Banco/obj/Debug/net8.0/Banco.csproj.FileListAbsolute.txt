@@ -1,0 +1,14 @@
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Banco\Banco\obj\Debug\net8.0\ref\Banco.dll
