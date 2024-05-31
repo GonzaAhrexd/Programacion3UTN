@@ -35,6 +35,8 @@
             label2 = new Label();
             button2 = new Button();
             SuspendLayout();
+            // Evita que el formulario se redimensione
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             // 
             // label1
             // 

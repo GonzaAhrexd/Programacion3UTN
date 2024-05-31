@@ -48,8 +48,7 @@ namespace AnalizarCarpeta
 
                     label2.Visible = true;
                     label2.Text = "El tamaño total de los archivos es: " + FormatFileSize(totalSize);
-                    //label2.Text = label2.Text + Environment.NewLine + "El tamaño total de los archivos es: " + FormatFileSize(totalSize);
-
+                   
                 }
             }
         }

@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\6-Archivos"
+    "\\6-Archivos",
+    "\\6-Archivos\\AnalizarCarpeta",
+    "\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta",
+    "\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta"
   ],
-  "SelectedNode": "\\6-Archivos\\AnalizarCarpeta",
+  "SelectedNode": "\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
