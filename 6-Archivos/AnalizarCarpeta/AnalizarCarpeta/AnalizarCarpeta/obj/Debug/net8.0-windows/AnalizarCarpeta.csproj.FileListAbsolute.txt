@@ -1,0 +1,17 @@
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\bin\Debug\net8.0-windows\AnalizarCarpeta.exe
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\bin\Debug\net8.0-windows\AnalizarCarpeta.deps.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\bin\Debug\net8.0-windows\AnalizarCarpeta.runtimeconfig.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\bin\Debug\net8.0-windows\AnalizarCarpeta.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\bin\Debug\net8.0-windows\AnalizarCarpeta.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.Form1.resources
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.csproj.GenerateResource.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.AssemblyInfoInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.AssemblyInfo.cs
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.sourcelink.json
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\refint\AnalizarCarpeta.dll
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.pdb
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\AnalizarCarpeta.genruntimeconfig.cache
+C:\Users\gonza\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalizarCarpeta\AnalizarCarpeta\AnalizarCarpeta\obj\Debug\net8.0-windows\ref\AnalizarCarpeta.dll
