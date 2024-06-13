@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ryrco\\.nuget\\packages\\": {}
+    "C:\\Users\\gonza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programación3\\Banco\\Banco\\Banco.csproj",
+      "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\3- Programación Orientada a Objetos\\Banco\\Banco\\Banco.csproj",
       "projectName": "Banco",
-      "projectPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programación3\\Banco\\Banco\\Banco.csproj",
-      "packagesPath": "C:\\Users\\ryrco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programación3\\Banco\\Banco\\obj\\",
+      "projectPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\3- Programación Orientada a Objetos\\Banco\\Banco\\Banco.csproj",
+      "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\3- Programación Orientada a Objetos\\Banco\\Banco\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ryrco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

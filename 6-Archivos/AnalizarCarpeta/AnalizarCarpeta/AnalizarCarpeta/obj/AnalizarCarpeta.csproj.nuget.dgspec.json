@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj": {}
+    "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj": {
+    "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj",
+        "projectUniqueName": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj",
         "projectName": "AnalizarCarpeta",
-        "projectPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj",
-        "packagesPath": "C:\\Users\\gonza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\obj\\",
+        "projectPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj",
+        "packagesPath": "C:\\Users\\ryrco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programación3\\Programación3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gonza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ryrco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

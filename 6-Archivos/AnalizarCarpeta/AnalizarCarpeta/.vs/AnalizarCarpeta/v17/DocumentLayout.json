@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\",
+  "WorkspaceRootPath": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\programaci\u00F3n3practica\\6-archivos\\analizarcarpeta\\analizarcarpeta\\analizarcarpeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\programaci\u00F3n3practica\\6-archivos\\analizarcarpeta\\analizarcarpeta\\analizarcarpeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|solutionrelative:analizarcarpeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|c:\\users\\gonza\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\programaci\u00F3n3practica\\6-archivos\\analizarcarpeta\\analizarcarpeta\\analizarcarpeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\analizarcarpeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|solutionrelative:analizarcarpeta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\analizarcarpeta\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|c:\\users\\ryrco\\onedrive\\utn\\tup2_1\\programaci\u00F3n3\\programaci\u00F3n3practica\\6-archivos\\analizarcarpeta\\analizarcarpeta\\analizarcarpeta\\analizarcarpeta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|solutionrelative:analizarcarpeta\\analizarcarpeta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\analizarcarpeta\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E259DFE8-46A4-4DEA-AA77-6C159D6490C1}|AnalizarCarpeta\\AnalizarCarpeta.csproj|solutionrelative:analizarcarpeta\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -36,24 +36,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.cs",
               "RelativeDocumentMoniker": "AnalizarCarpeta\\Form1.cs",
-              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.cs",
               "RelativeToolTip": "AnalizarCarpeta\\Form1.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwCwAAAApAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T00:45:14.446Z",
+              "WhenOpened": "2024-06-13T18:32:46.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AnalizarCarpeta.csproj",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj",
+              "RelativeDocumentMoniker": "AnalizarCarpeta\\AnalizarCarpeta.csproj",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta.csproj",
+              "RelativeToolTip": "AnalizarCarpeta\\AnalizarCarpeta.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T13:14:15.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "AnalizarCarpeta\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.Designer.cs",
               "RelativeToolTip": "AnalizarCarpeta\\Form1.Designer.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAmwCYAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T22:14:23.99Z",
               "EditorCaption": ""
@@ -61,14 +74,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.cs",
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.cs",
               "RelativeDocumentMoniker": "AnalizarCarpeta\\Form1.cs",
-              "ToolTip": "C:\\Users\\gonza\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.cs [Design]",
-              "RelativeToolTip": "AnalizarCarpeta\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\ryrco\\OneDrive\\UTN\\TUP2_1\\Programaci\u00F3n3\\Programaci\u00F3n3Practica\\6-Archivos\\AnalizarCarpeta\\AnalizarCarpeta\\AnalizarCarpeta\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AnalizarCarpeta\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T22:13:41.954Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

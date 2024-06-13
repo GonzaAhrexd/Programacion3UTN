@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnalizarCarpeta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d21a566b361352fac4769310a40fddf1ae9262a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+936b37540347722208e2611a47416da44af78acf")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnalizarCarpeta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnalizarCarpeta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

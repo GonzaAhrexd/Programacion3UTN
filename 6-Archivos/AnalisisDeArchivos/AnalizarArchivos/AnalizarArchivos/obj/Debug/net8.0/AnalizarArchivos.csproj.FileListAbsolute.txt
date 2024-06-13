@@ -1,0 +1,15 @@
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\bin\Debug\net8.0\AnalizarArchivos.exe
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\bin\Debug\net8.0\AnalizarArchivos.deps.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\bin\Debug\net8.0\AnalizarArchivos.runtimeconfig.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\bin\Debug\net8.0\AnalizarArchivos.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\bin\Debug\net8.0\AnalizarArchivos.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\AnalizarArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\AnalizarArchivos.AssemblyInfoInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\AnalizarArchivos.AssemblyInfo.cs
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\AnalizarArchivos.csproj.CoreCompileInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\AnalizarArchivos.sourcelink.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\AnalizarArchivos.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\refint\AnalizarArchivos.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\AnalizarArchivos.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\AnalizarArchivos.genruntimeconfig.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\6-Archivos\AnalisisDeArchivos\AnalizarArchivos\AnalizarArchivos\obj\Debug\net8.0\ref\AnalizarArchivos.dll

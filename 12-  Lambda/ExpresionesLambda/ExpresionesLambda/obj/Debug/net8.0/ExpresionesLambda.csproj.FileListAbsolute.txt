@@ -1,0 +1,15 @@
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.exe
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.deps.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.runtimeconfig.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\bin\Debug\net8.0\ExpresionesLambda.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.AssemblyInfoInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.AssemblyInfo.cs
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.csproj.CoreCompileInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.sourcelink.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\refint\ExpresionesLambda.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ExpresionesLambda.genruntimeconfig.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\12-  Lambda\ExpresionesLambda\ExpresionesLambda\obj\Debug\net8.0\ref\ExpresionesLambda.dll

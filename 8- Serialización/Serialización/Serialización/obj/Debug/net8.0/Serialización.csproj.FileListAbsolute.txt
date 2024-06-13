@@ -1,0 +1,15 @@
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\Serialización.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\Serialización.AssemblyInfoInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\Serialización.AssemblyInfo.cs
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\Serialización.csproj.CoreCompileInputs.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\Serialización.sourcelink.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\bin\Debug\net8.0\Serialización.exe
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\bin\Debug\net8.0\Serialización.deps.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\bin\Debug\net8.0\Serialización.runtimeconfig.json
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\bin\Debug\net8.0\Serialización.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\bin\Debug\net8.0\Serialización.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\Serialización.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\refint\Serialización.dll
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\Serialización.pdb
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\Serialización.genruntimeconfig.cache
+C:\Users\ryrco\OneDrive\UTN\TUP2_1\Programación3\Programación3Practica\8- Serialización\Serialización\Serialización\obj\Debug\net8.0\ref\Serialización.dll
